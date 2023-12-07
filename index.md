@@ -7,7 +7,7 @@ This is my home page! My name is Aijahlin Jallo-Jamboria and I am a student at [
 ## Computer Science Projects
 
 
-My GitHub page is http://github.com/your_username.
+My GitHub page is http://github.com/aijahlin.
 
 
 ### CPSC 120
